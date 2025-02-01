@@ -19,4 +19,5 @@
     "postcss-import": "^14.0.0",
     "tailwindcss": "^2.0.4"
   }
+  
 }
